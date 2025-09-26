@@ -12,3 +12,18 @@ Example for Class
 _This text is also italic_
 
 This is just regular text.
+
+***This is bold and italic text***
+
+Unordered List:
+- Item 1
+- Item 2
+- Item 3
+    - Item 2A
+    - Item 2B
+
+Ordered List:
+1. Item 1
+2. Item 2
+3. Item 3
+
