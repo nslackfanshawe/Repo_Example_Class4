@@ -33,4 +33,4 @@ This is a link:
 This is a image
 ![Github Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
 
-![The Imperial Eagle](images/Imperial Eagle.png)
+![Imperial](images/Imperial%20Eagle.png)
