@@ -27,3 +27,10 @@ Ordered List:
 2. Item 2
 3. Item 3
 
+This is a link:
+[Google's Website](https://www.google.com)
+
+This is a image
+![Github Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
+
+![The Imperial Eagle](images/Imperial Eagle.png)
